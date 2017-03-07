@@ -44,4 +44,3 @@ end
 
 source_url 'https://github.com/sensu/sensu-chef'
 issues_url 'https://github.com/sensu/sensu-chef/issues'
-chef_version '>= 12.0'
