@@ -19,7 +19,7 @@ depends "windows", ">= 1.36"
 depends "ms_dotnet", ">= 2.6.1"
 
 # available @ https://supermarket.chef.io/cookbooks/rabbitmq
-depends "rabbitmq", ">= 2.0.0"
+depends "rabbitmq", ">= 5.4.0"
 
 # available @ https://supermarket.chef.io/cookbooks/redisio
 depends "redisio", ">= 1.7.0"
